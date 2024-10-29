@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import type { StaticImageData } from "next/image";
 
 interface HeroProps {
-  title: String;
+  title: string;
   image: StaticImageData;
 }
 
